@@ -32,4 +32,4 @@ oo $ $ "$      o$$$$$$$$$    $$$$$$$$$$$$$    $$$$$$$$$o       $$$o$$o$
 
 This Programs design to find information about computer system configuration such as os, username, user domains, time stamp, LAN password, etc.
 
-|just old stuff
+| just old stuff
