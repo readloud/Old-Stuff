@@ -3,7 +3,7 @@
 <p align="center">
 Proximity dictionary files that are designed based on CMD System Configurations 
 
-~~~
+~~~center
                           oooo$$$$$$$$$$$$oooo
                       oo$$$$$$$$$$$$$$$$$$$$$$$$o
                    oo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o         o$   $$ o$
