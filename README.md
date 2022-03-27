@@ -1,9 +1,6 @@
-﻿# Old-Stuff
+﻿# Old-Stuff - Proximity dictionary files that are designed based on CMD System Configurations 
 
-<p align="center">
-Proximity dictionary files that are designed based on CMD System Configurations 
-
-~~~center
+~~~
                           oooo$$$$$$$$$$$$oooo
                       oo$$$$$$$$$$$$$$$$$$$$$$$$o
                    oo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o         o$   $$ o$
@@ -32,8 +29,7 @@ oo $ $ "$      o$$$$$$$$$    $$$$$$$$$$$$$    $$$$$$$$$o       $$$o$$o$
                                       "$$$""
 
 ~~~
-</p>
-<br>
+
 This Programs design to find information about computer system configuration such as os, username, user domains, time stamp, LAN password, etc.
 
 |just old stuff
